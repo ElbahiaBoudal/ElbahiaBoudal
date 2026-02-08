@@ -48,8 +48,8 @@ Fast learner, proactive, and team-oriented, seeking opportunities to solve real-
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ElbahiaBoudal&show_icons=true&theme=dark&hide_border=true&title_color=3182ce" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElbahiaBoudal&layout=compact&theme=dark&hide_border=true&title_color=3182ce" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElbahiaBoudal&show_icons=true&theme=algolia&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElbahiaBoudal&layout=compact&theme=algolia" />
 </p>
 
 <p align="center">
