@@ -27,22 +27,24 @@ Fast learner, proactive, and team-oriented, seeking opportunities to solve real-
 
 ### 🛠 Tech Stack
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="35%" valign="top">
       <b>Frontend & Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=js,react,php,laravel,nodejs,fastapi" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,nodejs,express,fastapi&perline=3" width="220" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="30%" valign="top">
       <b>AI & Data Science</b><br><br>
-      <img src="https://skillicons.dev/icons?i=py,tensorflow,pws,activemq" /> 
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,sklearn,&perline=3" width="220" />
     </td>
-    <td align="center" width="33%">
-      <b>Infra & DB</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,mysql,postgres,mongodb,git" />
+    <td align="center" width="35%" valign="top">
+      <b>Tools & Infrastructure</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,mysql,postgres,mongodb,git,github,postman,airflow&perline=3" width="220" />
     </td>
   </tr>
 </table>
+
+
 
 ---
 
