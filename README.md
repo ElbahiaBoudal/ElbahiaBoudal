@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="banner.png" alt="El Bahia Boudal Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FFC0CB&center=true&vCenter=true&width=1000&height=200&lines=I'm+El+Bahia+Boudal;Full-Stack+%26+AI+Developer;Building+Web+%26+Intelligent+Apps" />
 </p>
+
+
 
 
 <p align="center">
