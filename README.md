@@ -12,7 +12,7 @@
 
 ---
 
-### 📖 About Me
+###  About Me
 <p align="left">
 Motivated <b>Full-Stack and AI Developer</b> capable of building dynamic web applications, implementing secure authentication systems, optimizing databases, and creating intelligent AI-powered solutions.
 Fast learner, proactive, and team-oriented, seeking opportunities to solve real-world problems through development and AI projects.
@@ -25,7 +25,7 @@ Fast learner, proactive, and team-oriented, seeking opportunities to solve real-
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 <table align="center" width="100%">
   <tr>
@@ -48,19 +48,19 @@ Fast learner, proactive, and team-oriented, seeking opportunities to solve real-
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElbahiaBoudal&show_icons=true&theme=algolia&count_private=true" />
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElbahiaBoudal&layout=compact&theme=algolia" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElbahiaBoudal&theme=react-dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElbahiaBoudal&bg_color=0D1117&color=FFC0CB&line=FFC0CB&point=FFC0CB&hide_border=true&theme=react-dark" />
 </p>
 
 ---
 
-### 💻 Current Focus & Interests
+###  Current Focus & Interests
 ```javascript
 const boudal = {
     role: "Junior Full-Stack & AI Developer",
